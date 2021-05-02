@@ -1,0 +1,186 @@
+[
+  {
+    "outfitId": 0,
+    "name": "nike ayakkabı",
+    "brandName": "nike",
+    "clothingType": "sporty",
+    "gender": "male",
+    "size": "large",
+    "color": "Aquamarine",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 1,
+    "name": "kazak",
+    "brandName": "Kardeşler giyim",
+    "clothingType": "other",
+    "gender": "female",
+    "size": "xlarge",
+    "color": "Olden",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 2,
+    "name": "paçalı don",
+    "brandName": "Kardeşler giyim",
+    "clothingType": "other",
+    "gender": "female",
+    "size": "xlarge",
+    "color": "Olive",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 3,
+    "name": "çorap",
+    "brandName": "Kardeşler giyim",
+    "clothingType": "other",
+    "gender": "female",
+    "size": "xsmall",
+    "color": "Black",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 4,
+    "name": "pantolon",
+    "brandName": "Kardeşler giyim",
+    "clothingType": "other",
+    "gender": "female",
+    "size": "xlarge",
+    "color": "Aquamarine",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 5,
+    "name": "tşört",
+    "brandName": "Kardeşler giyim",
+    "clothingType": "other",
+    "gender": "female",
+    "size": "medium",
+    "color": "Wheat",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 6,
+    "name": "bluuz",
+    "brandName": "Kardeşler giyim",
+    "clothingType": "other",
+    "gender": "male",
+    "size": "large",
+    "color": "Green",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 42,
+    "name": "tshirt",
+    "brandName": "mudo",
+    "clothingType": "party",
+    "gender": "male",
+    "size": "large",
+    "color": "Red",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 128,
+    "name": "karpuzlu mayo",
+    "brandName": "jack and jones",
+    "clothingType": "other",
+    "gender": "male",
+    "size": "medium",
+    "color": "Hotpink",
+    "comment": [],
+    "like": [
+      2
+    ],
+    "dislike": []
+  },
+  {
+    "outfitId": 988,
+    "name": "parmak arası terlik",
+    "brandName": "kardeşler kundura",
+    "clothingType": "sporty",
+    "gender": "male",
+    "size": "xlarge",
+    "color": "Azure",
+    "comment": [],
+    "like": [],
+    "dislike": [
+      4
+    ]
+  },
+  {
+    "outfitId": 411,
+    "name": "takım elbise",
+    "brandName": "süvari",
+    "clothingType": "elegant",
+    "gender": "male",
+    "size": "small",
+    "color": "Fuchsia",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 181,
+    "name": "maske",
+    "brandName": "Gucci",
+    "clothingType": "party",
+    "gender": "female",
+    "size": "xsmall",
+    "color": "Black",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 81,
+    "name": "Tuvalet",
+    "brandName": "Nazilli Pazarı",
+    "clothingType": "party",
+    "gender": "female",
+    "size": "small",
+    "color": "Silver",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 19,
+    "name": "etek",
+    "brandName": "Zara",
+    "clothingType": "sporty",
+    "gender": "female",
+    "size": "small",
+    "color": "Red",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  },
+  {
+    "outfitId": 888,
+    "name": "gözlük",
+    "brandName": "atasun optik",
+    "clothingType": "casual",
+    "gender": "female",
+    "size": "medium",
+    "color": "Brown",
+    "comment": [],
+    "like": [],
+    "dislike": []
+  }
+]

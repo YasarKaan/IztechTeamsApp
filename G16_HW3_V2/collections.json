@@ -1,0 +1,73 @@
+[
+  {
+    "collectionId": 1,
+    "name": "düğün",
+    "usersId": 1,
+    "outfitsId": [
+      0,
+      5
+    ]
+  },
+  {
+    "collectionId": 2,
+    "name": "nişan",
+    "usersId": 2,
+    "outfitsId": [
+      1,
+      2
+    ]
+  },
+  {
+    "collectionId": 3,
+    "name": "mezuniyet",
+    "usersId": 3,
+    "outfitsId": [
+      6,
+      19,
+      888
+    ]
+  },
+  {
+    "collectionId": 4,
+    "name": "boşanma",
+    "usersId": 4,
+    "outfitsId": [
+      3,
+      411
+    ]
+  },
+  {
+    "collectionId": 5,
+    "name": "soygun",
+    "usersId": 5,
+    "outfitsId": [
+      4,
+      181
+    ]
+  },
+  {
+    "collectionId": 6,
+    "name": "konser",
+    "usersId": 1,
+    "outfitsId": [
+      42
+    ]
+  },
+  {
+    "collectionId": 910,
+    "name": "yaz kreasyonu",
+    "usersId": 2,
+    "outfitsId": [
+      128,
+      988
+    ]
+  },
+  {
+    "collectionId": 842,
+    "name": "klip",
+    "usersId": 5,
+    "outfitsId": [
+      81
+    ]
+  }
+]

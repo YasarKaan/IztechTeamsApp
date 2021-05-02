@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Users>
+    <User ID="1">
+        <userName>tamer</userName>
+        <password>123</password>
+        <gender>male</gender>
+        <followerUsersId>5</followerUsersId>
+        <collectionsId>1</collectionsId>
+        <collectionsId>6</collectionsId>
+    </User>
+    <User ID="2">
+        <userName>kaan</userName>
+        <password>123</password>
+        <gender>male</gender>
+        <followerUsersId>3</followerUsersId>
+        <collectionsId>2</collectionsId>
+        <collectionsId>910</collectionsId>
+    </User>
+    <User ID="3">
+        <userName>halsey</userName>
+        <password>123</password>
+        <gender>female</gender>
+        <followingUsersId>2</followingUsersId>
+        <collectionsId>3</collectionsId>
+    </User>
+    <User ID="4">
+        <userName>elon</userName>
+        <password>123</password>
+        <gender>male</gender>
+        <followerUsersId>2</followerUsersId>
+        <collectionsId>4</collectionsId>
+    </User>
+    <User ID="5">
+        <userName>dua lipa</userName>
+        <password>123</password>
+        <gender>female</gender>
+        <collectionsId>5</collectionsId>
+        <collectionsId>842</collectionsId>
+    </User>
+</Users>
